@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yovan Gunardio Darmawan
+# 𝐘𝐨𝐯𝐚𝐧 𝐆𝐮𝐧𝐚𝐫𝐝𝐢𝐨 𝐃𝐚𝐫𝐦𝐚𝐰𝐚𝐧
 
 ### Software Engineer & Builder
 
@@ -20,7 +20,7 @@
 
 ---
 
-## < about me />
+## < 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 />
 
 Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
 
