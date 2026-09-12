@@ -39,14 +39,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 ### <code>build → break → learn → rebuild</code>
 
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=flat&color=grey" alt="Profile views" />
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=flat-square&color=grey" alt="Profile views" />
 <img src="https://komarev.com/ghpvc/?username=navoyovan&style=plastic&color=grey" alt="Profile views" />
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=for-the-badge&color=grey" alt="Profile views" />
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=pixel&color=grey" alt="Profile views" />
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=invisible&color=grey" alt="Profile views" />
-
 
 </div>
 
