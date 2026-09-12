@@ -54,7 +54,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
-## {Things I use}
+## { Things } = I use;
 
 <div align="center">
 
@@ -78,8 +78,9 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 ## whatIDo = "Currently";
 
 * 🔨 Maintaining **Hypebox** into a more complete physical-brand-activation platform
-* 🧱 Developing **mcTextureGhost** a minecraft resource-pack management
+* 🧱 Developing **mcTextureGhost** a UI based minecraft resource-pack management
 * 🧠 Learning by building and collecting skills like Pokémon
+* 🚨🚨🚨 open for projects 🚨🚨🚨
 
 ---
 
