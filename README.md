@@ -20,13 +20,13 @@
 
 ---
 
-## < 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 />
+## < 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 />
 
 Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
 
 I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
 
-## // What I'm building
+## // 𝐖𝐡𝐚𝐭 𝐈'𝐦 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠
 
 ### Hypebox 📸
 
@@ -50,7 +50,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
-## { things } = I: "do";
+## { 𝐭𝐡𝐢𝐧𝐠𝐬 } = 𝐈: "𝐝𝐨";
 
 <div align="center">
 
@@ -58,7 +58,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 </div>
 
-## ://gitHub:stats 
+## ://𝐠𝐢𝐭𝐇𝐮𝐛:𝐬𝐭𝐚𝐭𝐬
 
 <div align="center">
 
@@ -71,7 +71,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 </div>
 
-## whatIDo = "Currently";
+## 𝐰𝐡𝐚𝐭𝐈𝐃𝐨 = "𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲";
 
 * 🔨 Maintaining **Hypebox** into a more complete physical-brand-activation platform
 * 🧱 Developing **mcTextureGhost** a UI based minecraft resource-pack management
