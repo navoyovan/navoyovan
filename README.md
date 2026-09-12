@@ -21,7 +21,8 @@ I work across **web applications, desktop software, IoT-connected systems, and d
 
 ### Portfolio 🌐 
 
-My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. <br/>
+My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. 
+<br/> <br/>
 <a href="https://navoyovan.github.io/portfolio-yovan/">
  <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
