@@ -32,7 +32,7 @@ I work across **web applications, desktop software, IoT-connected systems, and d
 
 **Photobooth SaaS + IoT ecosystem**
 
-A full-stack system connecting a touchscreen kiosk, camera workflows, physical hardware, real-time telemetry, cloud storage, payments, and a vendor portal.
+A full-stack system connecting a touchscreen kiosk, camera workflows, physical hardware, real-time telemetry, cloud storage, payments, and a workspace.
 
 `Electron` `React` `Laravel` `Reverb` `GCP` `WebSockets` `GCS`
 
@@ -55,19 +55,6 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,react,laravel,astro,nodejs,electron,tailwind,vite,dotnet,cs,sqlite,mysql,gcp,docker,git,github" alt="Tech stack" />
-
-</div>
-
-## ://𝐠𝐢𝐭𝐇𝐮𝐛:𝐬𝐭𝐚𝐭𝐬
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=navoyovan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yovan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navoyovan&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=navoyovan&hide_border=true" alt="GitHub streak" />
 
 </div>
 
