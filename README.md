@@ -14,13 +14,13 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Developer+Tools;Turning+weird+ideas+into+working+software." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Developer+Tools;Turning+bullshit+into+working+stuff." alt="Typing animation" />
 
 </div>
 
 ---
 
-## 👋 About me
+## < About me />
 
 I'm **Yovan**, a software engineer who likes building things from the idea all the way to something people can actually use.
 
@@ -30,9 +30,9 @@ I work across **web applications, desktop software, IoT-connected systems, and d
 idea → architecture → code → hardware / users → ship it
 ```
 
-## 🚀 What I'm building
+## // What I'm building
 
-### 📸 Hypebox
+### Hypebox 📸
 
 **Photobooth SaaS + IoT ecosystem**
 
@@ -40,7 +40,7 @@ A full-stack system connecting a touchscreen kiosk, camera workflows, physical h
 
 `Electron` `React` `Laravel` `Reverb` `GCP` `SQLite` `WebSockets`
 
-### 🧱 mcTextureGhost
+### mcTextureGhost 🧱 
 
 **Minecraft resource-pack developer tool**
 
@@ -48,13 +48,13 @@ A desktop tool that makes messy JSON/resource-pack workflows easier for artists 
 
 `C#` `WPF` `JSON` `Desktop` `Developer Tools`
 
-### 🌐 Portfolio
+### Portfolio 🌐 
 
 My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**.
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
-## 🛠️ Things I use
+## {Things I use}
 
 <div align="center">
 
@@ -62,7 +62,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 </div>
 
-## 📊 GitHub stats
+## 📊 GitHub stats 
 
 <div align="center">
 
@@ -75,20 +75,11 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 </div>
 
-## 🏆 GitHub trophies
+## whatIDo = "Currently";
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=navoyovan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-</div>
-
-## 🧪 Currently
-
-* 🔨 Building **Hypebox** into a more complete physical-brand-activation platform
-* 🧱 Improving **mcTextureGhost** for non-technical resource-pack artists
-* 🌌 Experimenting with **Astro** and weird little frontend interactions
-* 🧠 Learning by building instead of collecting tutorials like Pokémon
+* 🔨 Maintaining **Hypebox** into a more complete physical-brand-activation platform
+* 🧱 Developing **mcTextureGhost** a minecraft resource-pack management
+* 🧠 Learning by building and collecting skills like Pokémon
 
 ---
 
