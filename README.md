@@ -20,7 +20,7 @@ I work across **web applications, desktop software, IoT-connected systems, and d
 
 ### Portfolio 🌐 
 
-My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. 
+My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. <br/>
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 <br/> <br/>
 <a href="https://navoyovan.github.io/portfolio-yovan/">
