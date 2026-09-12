@@ -22,7 +22,7 @@ I work across **web applications, desktop software, IoT-connected systems, and d
 
 My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. <br/>
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
-<br/>
+<br/> <br/>
 <a href="https://navoyovan.github.io/portfolio-yovan/">
  <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
