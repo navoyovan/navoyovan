@@ -1,19 +1,18 @@
 <div align="center">
 
 # 𝐘𝐨𝐯𝐚𝐧 𝐆𝐮𝐧𝐚𝐫𝐝𝐢𝐨 𝐃𝐚𝐫𝐦𝐚𝐰𝐚𝐧
-
-### Software Engineer & Builder
+<img src="https://komarev.com/ghpvc/?username=navoyovan&style=plastic&color=grey" alt="Profile views" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Developer+Tools;Turning+bullshit+into+working+stuff." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Tools;Turning+bullshit+into+working+stuff." alt="Typing animation" />
 
 </div>
 
 ---
 
-## < 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 />
+## <𝐚𝐛𝐨𝐮𝐭 𝐦𝐞/>
 
 Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
 
@@ -29,17 +28,13 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
-## { 𝐭𝐡𝐢𝐧𝐠𝐬 } = 𝐈: "𝐝𝐨";
+## 𝐦𝐲𝐓𝐞𝐜𝐡𝐚𝐧𝐝 = "𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦𝐬";
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,react,laravel,astro,nodejs,electron,tailwind,vite,dotnet,cs,sqlite,mysql,gcp,docker,git,github" alt="Tech stack" />
 
-
-### <code>build → break → learn → rebuild</code>
-
 <br />
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=plastic&color=grey" alt="Profile views" />
 
 </div>
 
