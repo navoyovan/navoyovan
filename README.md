@@ -60,9 +60,9 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 ## 𝐰𝐡𝐚𝐭𝐈𝐃𝐨 = "𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲";
 
-* 🔨 Maintaining **Hypebox** into a more complete physical-brand-activation platform
-* 🧱 Developing **mcTextureGhost** a UI based minecraft resource-pack management
-* 🧠 Learning by building and collecting skills like Pokémon
+* Maintaining **Hypebox** into a more complete physical-brand-activation platform
+* Developing **mcTextureGhost** a UI based minecraft resource-pack management
+* Learning by building and collecting skills like Pokémon
 * and
 * 🚨🚨🚨 ***OPEN FOR PROJECTS*** 🚨🚨🚨
 
