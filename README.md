@@ -20,15 +20,11 @@
 
 ---
 
-## < About me />
+## < about me />
 
-I'm **Yovan**, a software engineer who likes building things from the idea all the way to something people can actually use.
+Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
 
-I work across **web applications, desktop software, IoT-connected systems, and developer tools**. I especially enjoy projects where software has to leave the browser and interact with the real world.
-
-```text
-idea → architecture → code → hardware / users → ship it
-```
+I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
 
 ## // What I'm building
 
@@ -38,7 +34,7 @@ idea → architecture → code → hardware / users → ship it
 
 A full-stack system connecting a touchscreen kiosk, camera workflows, physical hardware, real-time telemetry, cloud storage, payments, and a vendor portal.
 
-`Electron` `React` `Laravel` `Reverb` `GCP` `SQLite` `WebSockets`
+`Electron` `React` `Laravel` `Reverb` `GCP` `WebSockets` `GCS`
 
 ### mcTextureGhost 🧱 
 
@@ -46,7 +42,7 @@ A full-stack system connecting a touchscreen kiosk, camera workflows, physical h
 
 A desktop tool that makes messy JSON/resource-pack workflows easier for artists by detecting missing textures, generating stubs, and organizing block resources visually.
 
-`C#` `WPF` `JSON` `Desktop` `Developer Tools`
+`C#` `WPF WebView2` `JSON` `Desktop` `Developer Tools`
 
 ### Portfolio 🌐 
 
@@ -54,7 +50,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
-## { Things } = I use;
+## { things } = I: "do";
 
 <div align="center">
 
@@ -62,7 +58,7 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 </div>
 
-## 📊 GitHub stats 
+## ://gitHub:stats 
 
 <div align="center">
 
@@ -80,7 +76,8 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 * 🔨 Maintaining **Hypebox** into a more complete physical-brand-activation platform
 * 🧱 Developing **mcTextureGhost** a UI based minecraft resource-pack management
 * 🧠 Learning by building and collecting skills like Pokémon
-* 🚨🚨🚨 open for projects 🚨🚨🚨
+* and
+* 🚨🚨🚨 ***OPEN FOR PROJECTS*** 🚨🚨🚨
 
 ---
 
