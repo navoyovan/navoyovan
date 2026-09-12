@@ -4,13 +4,6 @@
 
 ### Software Engineer & Builder
 
-<a href="https://navoyovan.github.io/portfolio-yovan/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/navoyovan">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
 <br />
 <br />
 
@@ -26,27 +19,12 @@ Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software eng
 
 I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
 
-## // 𝐖𝐡𝐚𝐭 𝐈'𝐦 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠
-
-### Hypebox 📸
-
-**Photobooth SaaS + IoT ecosystem**
-
-A full-stack system connecting a touchscreen kiosk, camera workflows, physical hardware, real-time telemetry, cloud storage, payments, and a workspace.
-
-`Electron` `React` `Laravel` `Reverb` `GCP` `WebSockets` `GCS`
-
-### mcTextureGhost 🧱 
-
-**Minecraft resource-pack developer tool**
-
-A desktop tool that makes messy JSON/resource-pack workflows easier for artists by detecting missing textures, generating stubs, and organizing block resources visually.
-
-`C#` `WPF WebView2` `JSON` `Desktop` `Developer Tools`
-
 ### Portfolio 🌐 
 
-My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**.
+My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. <br/>
+<a href="https://navoyovan.github.io/portfolio-yovan/">
+ <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 `Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
@@ -56,19 +34,6 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 
 <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,react,laravel,astro,nodejs,electron,tailwind,vite,dotnet,cs,sqlite,mysql,gcp,docker,git,github" alt="Tech stack" />
 
-</div>
-
-## 𝐰𝐡𝐚𝐭𝐈𝐃𝐨 = "𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲";
-
-* Maintaining **Hypebox** into a more complete physical-brand-activation platform
-* Developing **mcTextureGhost** a UI based minecraft resource-pack management
-* Learning by building and collecting skills like Pokémon
-* and
-* 🚨🚨🚨 ***OPEN FOR PROJECTS*** 🚨🚨🚨
-
----
-
-<div align="center">
 
 ### <code>build → break → learn → rebuild</code>
 
