@@ -26,8 +26,8 @@ My personal playground for experimenting with **Astro, animations, frontend arch
 <a href="https://navoyovan.github.io/portfolio-yovan/">
  <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-`Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
+`Astro` `Tailwind CSS` `TypeScript` `Anime.js`
 
 ## { 𝐭𝐡𝐢𝐧𝐠𝐬 } = 𝐈: "𝐝𝐨";
 
