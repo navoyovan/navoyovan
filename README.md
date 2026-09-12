@@ -1,16 +1,112 @@
-## Hi there 👋
+<div align="center">
+
+# Yovan Gunardio Darmawan
+
+### Software Engineer & Builder
+
+<a href="https://navoyovan.github.io/portfolio-yovan/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/navoyovan">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Developer+Tools;Turning+weird+ideas+into+working+software." alt="Typing animation" />
+
+</div>
+
+---
+
+## 👋 About me
+
+I'm **Yovan**, a software engineer who likes building things from the idea all the way to something people can actually use.
+
+I work across **web applications, desktop software, IoT-connected systems, and developer tools**. I especially enjoy projects where software has to leave the browser and interact with the real world.
+
+```text
+idea → architecture → code → hardware / users → ship it
+```
+
+## 🚀 What I'm building
+
+### 📸 Hypebox
+
+**Photobooth SaaS + IoT ecosystem**
+
+A full-stack system connecting a touchscreen kiosk, camera workflows, physical hardware, real-time telemetry, cloud storage, payments, and a vendor portal.
+
+`Electron` `React` `Laravel` `Reverb` `GCP` `SQLite` `WebSockets`
+
+### 🧱 mcTextureGhost
+
+**Minecraft resource-pack developer tool**
+
+A desktop tool that makes messy JSON/resource-pack workflows easier for artists by detecting missing textures, generating stubs, and organizing block resources visually.
+
+`C#` `WPF` `JSON` `Desktop` `Developer Tools`
+
+### 🌐 Portfolio
+
+My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**.
+
+`Astro` `Tailwind CSS` `TypeScript` `Anime.js`
+
+## 🛠️ Things I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,html,css,react,laravel,astro,nodejs,electron,tailwind,vite,dotnet,cs,sqlite,mysql,gcp,docker,git,github" alt="Tech stack" />
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navoyovan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yovan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navoyovan&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=navoyovan&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+## 🏆 GitHub trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=navoyovan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+</div>
+
+## 🧪 Currently
+
+* 🔨 Building **Hypebox** into a more complete physical-brand-activation platform
+* 🧱 Improving **mcTextureGhost** for non-technical resource-pack artists
+* 🌌 Experimenting with **Astro** and weird little frontend interactions
+* 🧠 Learning by building instead of collecting tutorials like Pokémon
+
+---
+
+<div align="center">
+
+### <code>build → break → learn → rebuild</code>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=navoyovan&style=flat-square&color=grey" alt="Profile views" />
+
+</div>
 
 <!--
-**navoyovan/navoyovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TODO for v2:
+- Add contribution snake
+- Add activity graph
+- Add a more custom visual identity
+- Add selected project cards / demos
+- Consider a GitHub Actions-powered dynamic section
 -->
