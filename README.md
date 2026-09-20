@@ -2,6 +2,9 @@
 
 # 𝐘𝐨𝐯𝐚𝐧 𝐆𝐮𝐧𝐚𝐫𝐝𝐢𝐨 𝐃𝐚𝐫𝐦𝐚𝐰𝐚𝐧
 <img src="https://komarev.com/ghpvc/?username=navoyovan&style=plastic&color=grey" alt="Profile views" />
+<a href="https://navoyovan.github.io/portfolio-yovan/">
+ <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 <br />
 <br />
@@ -17,16 +20,6 @@
 Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
 
 I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
-
-### Portfolio 🌐 
-
-My personal playground for experimenting with **Astro, animations, frontend architecture, and web experiences**. <br/>
-`Astro` `Tailwind CSS` `TypeScript` `Anime.js`
-<br/> <br/>
-<a href="https://navoyovan.github.io/portfolio-yovan/">
- <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
 
 ## 𝐦𝐲𝐓𝐞𝐜𝐡𝐚𝐧𝐝 = "𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦𝐬";
 
