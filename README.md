@@ -21,7 +21,7 @@ Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software eng
 
 I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
 
-## 𝐦𝐲𝐓𝐞𝐜𝐡𝐚𝐧𝐝 = "𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦𝐬";
+## 𝐦𝐲𝐓𝐞𝐜𝐡 𝐚𝐧𝐝 = "𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦𝐬";
 
 <div align="center">
 
