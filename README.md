@@ -1,41 +1,27 @@
-<div align="center">
+# Yovan Gunardio Darmawan <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=52FF1A&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+DevTools;Turning+complex+problems+into+working+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=0969da&&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+DevTools;Turning+complex+problems+into+working+systems." alt="Typing animation" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/navoyovan.svg?variant=outline&font=geist" />
+  <img alt="profile views" src="https://shieldcn.dev/views/user/navoyovan.svg?variant=outline&mode=light&font=geist" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/navoyovan/repos.svg?variant=outline&font=geist" />
+  <img alt="repo views" src="https://shieldcn.dev/views/user/navoyovan/repos.svg?variant=outline&mode=light&font=geist" />
+</picture>
 
-# 𝐘𝐨𝐯𝐚𝐧 𝐆𝐮𝐧𝐚𝐫𝐝𝐢𝐨 𝐃𝐚𝐫𝐦𝐚𝐰𝐚𝐧
-<img src="https://komarev.com/ghpvc/?username=navoyovan&style=plastic&color=grey" alt="Profile views" />
-<a href="https://navoyovan.github.io/portfolio-yovan/">
- <img src="https://img.shields.io/badge/Portfolio-LIVE-blue?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+<br/>
+<br/>
 
-<br />
-<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Tools;Turning+bullshit+into+working+stuff." alt="Typing animation" />
+Hey, I'm **Yovan** (or **van** for 1 syllable), software engineer likes building stuff from the idea all the way to something people enjoy.
 
-</div>
+I work across web applications, desktop IPC software, IoT systems, and internal tools.
 
----
+<br/>
 
-## <𝐚𝐛𝐨𝐮𝐭 𝐦𝐞/>
+Visit my portfolio website: [navoyovan.github.io/portfolio-yovan](https://navoyovan.github.io/portfolio-yovan?utm_source=github&utm_medium=readme)
 
-Hey I'm **Yovan**, if you prefer one syllable we can use **van**, a software engineer who likes building things from the idea all the way to something people enjoy.
+## Stacks
 
-I work across **web applications, desktop software, IoT-connected systems, and developer tools**. 
-
-## 𝐦𝐲𝐓𝐞𝐜𝐡 𝐚𝐧𝐝 = "𝐄𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦𝐬";
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,php,html,css,react,laravel,astro,nodejs,electron,tailwind,vite,dotnet,cs,sqlite,mysql,gcp,docker,git,github" alt="Tech stack" />
-
-<br />
-
-</div>
-
-<!--
-TODO for v2:
-- Add contribution snake
-- Add activity graph
-- Add a more custom visual identity
-- Add selected project cards / demos
-- Consider a GitHub Actions-powered dynamic section
--->
+<img src="https://skillicons.dev/icons?i=ts,js,php,html,css,cs,react,laravel,astro,dotnet,nodejs,tailwind,vite,electron,sqlite,mysql,docker,gcp,git,github&perline=10&theme=dark" alt="Tech stack" />
