@@ -14,7 +14,7 @@
 <br/>
 
 
-Hey, I'm **Yovan** (or **van** for 1 syllable), software engineer likes building stuff from the idea all the way to something people enjoy.
+Hey, I'm **Yovan** (or **van** for 1 syllable). Software engineer, likes building stuff from the idea all the way to something people enjoy.
 
 I work across web applications, desktop IPC software, IoT systems, and internal tools.
 
