@@ -22,7 +22,7 @@ I work across web applications, desktop IPC software, IoT systems, and internal 
 
 <br/>
 
-Visit my portfolio website: [navoyovan.github.io/portfolio-yovan](https://navoyovan.github.io/portfolio-yovan?utm_source=github&utm_medium=readme)
+Visit my portfolio website: [yovangunard.io](https://navoyovan.github.io/portfolio-yovan?utm_source=github&utm_medium=readme)
 
 ## Stacks
 
