@@ -1,6 +1,6 @@
 # Yovan Gunardio Darmawan 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=52FF1A&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Tools;Turning+complex+problems+into+working+systems." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=0969da&&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+DevTools;Turning+complex+problems+into+working+systems." alt="Typing animation" />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=52FF1A&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+Tools;Turning+complex+problems+into+working+systems.;optimizations+freak+%E2%86%91" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=0969da&&width=550&lines=I+build+software+that+makes+ideas+real.;Web+%E2%80%A2+Desktop+%E2%80%A2+IoT+%E2%80%A2+DevTools;Turning+complex+problems+into+working+systems.;optimizations+freak+%E2%86%91" alt="Typing animation" />
 </picture>
 
 <picture>
